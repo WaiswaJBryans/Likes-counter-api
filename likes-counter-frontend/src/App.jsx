@@ -1,8 +1,5 @@
-
-import './css/bootstrap.min.css';
-import './App.css'
-import './js/bootstrap.bundle.min.js'
-import LikeButton from './component/LikeButton.jsx';
+import React from 'react'
+import LikeButton from './components/LikeButton.jsx';
 
 
 function App() {
